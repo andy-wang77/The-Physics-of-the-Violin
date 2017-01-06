@@ -18,6 +18,7 @@ friction. Logically, as the string is in the stick phase, the bow naturally crea
 implemented into the SumOfCorners functino which thus represents the behaviour of the bow when being bowed.
 
 Notes:
+
 1. If trying to run this in MATLAB, ensure the number of parameters being initiated is corresponds the number of parameters in the function
 file. 
 
